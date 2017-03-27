@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a86bbf1528a6e23edde0b9519404d8033c839e454d52ad22cab3687b8df9a59b
-size 1710
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="64" height="64" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" source="../tilemaps/tilemap.tsx"/>
+ <layer name="Tile Layer 1" width="64" height="64" opacity="0.99">
+  <data encoding="base64" compression="zlib">
+   eJztWl1SE0EY3FAq6iFUXilB5RDoAVA5BXoAUK6gVKnvAeQKyBEQ5QrIEQR/3pypmi6bzjc/m81mE+ChK0XY3Uz39z+z81VVzV/jGte4xhTgjcNbA5sTsLY2uW6Gv+/3qupzNYh7vcunwa7wY+6/HL47/JZrpskXlt16nwY86w3+/5vwY+7HdI2lw6Rr4LnPObwKeG3wj/HbC/975+5577DVG7xur+H62sYacU/xBzQWvH333ecXhyczgzocB322Ms+dBNv/cd99yqzTsu+Ju+eHw92ZizoAS+7vg475c4wDczVsr/UOOZBzHfwAuDNzUZOufEDtbCFne/Z7C3vC33M/7V38bhw+0HfYdtih7zTGLeTiHn6vsOLA4zQ874TiYhz8Dx2+OqyTBh/c734k/K3y/C0dU7ocJ67ZH6P9wR8abAt2Iv6g/C0dh8WJ+ESb+OnwnDRQHNXgvxKeNQoNxgmvwVlEB4u/lfsOw7XQ4XwCeNWBj9+NwHkl6HEWeKxluCv/o6o8H3TNGXEO7rA51/9Uv9un+9fD57T4Aec+trtlc9QCb/uYbqwf/KBrjikg7tnXl8nm4J3jjLzH+k0DfyDl6+zfVn2Aj2vcIw6s39P9ka75x/o9z19jxPJ15E74Peti/Z7vjW853K4mY+aP9Xuev8aIArZH7wM/Ydtbs9Ci+3w4IRpwbHO/96A3OAPynk8sNtj22Pvz9p4NfH3//8LhZocapGpfbv5BDYzFBtsevr7g8Ij4dqVBLp/l+HP/U8p/MXAHchq0kRtTvFP9Xqrvt2YHzXu7xFE1QDywBrP0fdO9wFyfwuuN1cCSvp+fhxkSfS/2gi0N2BfURx6PgH+udjF35cw9H/d++hvqA+iFOAZUgxuihddgoRo9/9Rcx32+xV17vtQcwzXyPPyttR8aLAZuXouXAZZfjII/YqBOrmPuWhes52MvnxHbt0QuWK3+7wNybVD+TetBjHtszknVNo1rQPdwU3u31pmIxr3mhSY+kKpPPOfUqW2sg7f90swg/9z+NZ+PxfiPwge4F9ee1ZpvwT0VM5w39RxDcUDP0zySqws5HyjZW0Fe0vqW29PI1Q2NBexZ8/kF+4DORP1wb4kGsTyo68jtN+V6mj7dm+PPOuCe/cBX4+GA+B/R83Ev14W6/HkdG9VFTVQLP+NZ+/g85/L6SvhzrxeLBYs/egZoYPXIdfiX+inPudACOW8Y/rrPaeVDz5/jkGMTfVJb/FUH9gtowbVe7VPyXJ73Y7Uw1hNA87b55/xC/bOOD7AvnBj+nzrL7Iq/6sC5A5qU+oDmQs0DvibgLItzrPLnfph74jr8MXs00aSJD7BfwRe4DzqUazAn6Fkx6oGfk1YT/K2+pq7dYnYchn/MF3COqXNSrG9BPHjb8ztTyj82kzTVwMqDqnXu+dZZcul5GM9Jsf4/p+GwtlNdrdrF35fqvBJ5jgWOh9R7Aimwr9X1hTrn19b+OJ8Flfh729A1lujR5OxqnGdfpXs0OZtZ5xpN9B6XvfX9lUk+b28DmoeuigbKMfce06S/i1EXaueSmj8t5/ElsPiUvMvV9brb5A8NYnXusvHP5Trr/Zau1z1K/pfNpsPwvyr1Lsb/qmqQ2nvoem1d8Ld8YZjZYFpQsvewUV3eGGm6rzHt+AcskZvI
+  </data>
+ </layer>
+</map>

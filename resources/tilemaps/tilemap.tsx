@@ -12,6 +12,8 @@
   <terrain name="Dark Grass" tile="-1"/>
   <terrain name="Dungeon Wall" tile="-1"/>
   <terrain name="Dungeon Dirt" tile="-1"/>
+  <terrain name="Dungeon Puddle" tile="-1"/>
+  <terrain name="Dungeon Moat" tile="-1"/>
  </terraintypes>
  <tile id="0" terrain="1,1,1,0"/>
  <tile id="1" terrain="1,1,0,0"/>
@@ -105,18 +107,43 @@
  <tile id="521" terrain="4,4,0,4"/>
  <tile id="560" terrain="4,0,4,4"/>
  <tile id="561" terrain="0,4,4,4"/>
+ <tile id="921" terrain="9,9,9,10"/>
+ <tile id="922" terrain="9,9,10,10"/>
+ <tile id="923" terrain="9,9,10,9"/>
  <tile id="924" terrain="8,8,8,9"/>
  <tile id="925" terrain="8,8,9,9"/>
  <tile id="926" terrain="8,8,9,8"/>
+ <tile id="928" terrain="9,9,9,11"/>
+ <tile id="929" terrain="9,9,11,11"/>
+ <tile id="930" terrain="9,9,11,9"/>
+ <tile id="961" terrain="9,10,9,10"/>
+ <tile id="962" terrain="11,11,11,11"/>
+ <tile id="963" terrain="10,9,10,9"/>
  <tile id="964" terrain="8,9,8,9"/>
  <tile id="965" terrain="9,9,9,9"/>
  <tile id="966" terrain="9,8,9,8"/>
+ <tile id="968" terrain="9,11,9,11"/>
+ <tile id="970" terrain="11,9,11,9"/>
+ <tile id="1001" terrain="9,10,9,9"/>
+ <tile id="1002" terrain="10,10,9,9"/>
+ <tile id="1003" terrain="10,9,9,9"/>
  <tile id="1004" terrain="8,9,8,8"/>
  <tile id="1005" terrain="9,9,8,8"/>
  <tile id="1006" terrain="9,8,8,8"/>
+ <tile id="1008" terrain="9,11,9,9"/>
+ <tile id="1009" terrain="11,11,9,9"/>
+ <tile id="1010" terrain="11,9,9,9"/>
+ <tile id="1041" terrain="10,10,10,9"/>
+ <tile id="1042" terrain="10,10,9,10"/>
  <tile id="1044" terrain="9,9,9,8"/>
  <tile id="1045" terrain="9,9,8,9"/>
  <tile id="1046" terrain="8,8,8,8"/>
+ <tile id="1048" terrain="11,11,11,9"/>
+ <tile id="1049" terrain="11,11,9,11"/>
+ <tile id="1081" terrain="10,9,10,10"/>
+ <tile id="1082" terrain="9,10,10,10"/>
  <tile id="1084" terrain="9,8,9,9"/>
  <tile id="1085" terrain="8,9,9,9"/>
+ <tile id="1088" terrain="11,9,11,11"/>
+ <tile id="1089" terrain="9,11,11,11"/>
 </tileset>

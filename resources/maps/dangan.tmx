@@ -1,3 +1,14 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:43bcbd8519cb42004c0c06edc8c5cef26ea83fa2acac32c886c2966851cee54c
-size 6294
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="64" height="64" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" source="../tilemaps/tilemap.tsx"/>
+ <layer name="Bacrrooz" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJztmXtOwzAMxic1JwABgqMwAeKaPIZgNwHGhLgJbDwvQCLNmmfsxOnapin541O19LH80tifkx6Y0eigqKioqKioqKioyKPrajSaIN1U4Tb3O3W/m9LMsjwhzatw27zwJ+93W/wntu3U+NuGzO/TmdHxQ67IIU/E8Gvf/0x5XR+0tH18V2jfDJNf638x+S8n/jr53+XDSfVXEO9D5w/lhZz5Nf63ZzbzAZ0XcG2O/Fr/i5kPfVZd/xsKf13/4/hdXOB7PjLgr+t/SzIujj0H3tD8j13/SLk+Zr2csl5ug9/xYL9wvsCxAXdKv9h2/Uf5KbtvDLhxTs2v9T96P/V+TrRupDVFivyx7fqvzv2cb6TKnVr/k3yN3s/VhZI/5uSTMePJjUGu/tjEGPwndtBQ90sLf+H/T/x0LRSq6WlNi+ueHPbDKYtUz0l7gL76L7d50ERt1zd+bl0qtcG7vLC6RLry1HO++q9LfiluubgMtd1bPay0Y9sX6Foa07j2wfukXddAs9V7g3dF36FPcA/Hf2w2z3PvFK+JU+2Fz1b9dv11TGOzZqBy7/TNHnfNmhGPw2u1ef4xE37od0gLwknbYe6MCT83p3HewPsm0h5Qm/yh/ATnQ20w/2Ge4Pjvq/+5PMTlG7xeh/NcG/Y+mBcLgSsn/4sZP5+fSXsZffG/JsfBMd3a453VNMBC/a+P+zyxNb2LhedVDngR+PEzcc7j/kfzn21Kqmsdk+P4JP3S8Ltr6ByB35KmiWKC+3YF85Pzay0/vQZ+S3pJxE/XqHieSm1f9vht9RPBD/dQHZm0/E2s6zT8kvB1qfil2AzF7rTi6z7Mf278z+4DvxSbodiV+ux7pvTsrvjp9+W2+KV4B0HuwLmkC36a0zH/ofH3EXJViF/zHY2ri7qoiXz82lzVhGelXAuH+Ll13xD46Xo85OfUG3Pn13o99AnHsZsLufNL3+c16znOJ3Ljl/oQqudz5P8FQTO7Nw==
+  </data>
+ </layer>
+ <layer name="Foregizzound" width="64" height="64">
+  <data encoding="base64" compression="zlib">
+   eJzt1bENADAIA0EKViX7j5CCnhYpuZPceIGPAAAAYHKyVzl/APAS/QPgR/oHAAAAAAAAAABsuzLHB28=
+  </data>
+ </layer>
+</map>
